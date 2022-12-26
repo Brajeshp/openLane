@@ -1,2 +1,7 @@
-Run following command in main openLane project.
-./flow.tck -design <design name>
+1. Create config.tcl file in the design path
+    
+    /pathWhereOpenLaneIsInstalled/design/newDesign/config.tcl
+    
+2. Run following command in main openLane project.
+    
+    ./flow.tck -design <newDesignName>
