@@ -1,0 +1,2 @@
+Run following command in main openLane project.
+./flow.tck -design <design name>
