@@ -4,4 +4,4 @@
     
 2. Run following command in main openLane project.
     
-    ./flow.tck -design <newDesignName>
+    ./flow.tck -design newDesignName
